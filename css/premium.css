@@ -1,0 +1,120 @@
+#title{
+    background-color:white;
+    color:#03674a;
+    
+}
+.container-fluid{
+    padding:1% 10% 0%;
+    background-color: #cbddd1;
+}
+.title-sec{
+    background-color: #cbddd1;
+    padding:10% 15%;
+    text-align: center;
+}
+h1{
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    color:#03674a;
+    font-weight: bold;
+    font-size:3.5rem;
+}
+
+/*navbar*/
+.navbar{
+    padding:0 0 2%;
+}
+
+.nav-item{
+    padding:0 45px;
+}
+.nav-link{
+    font-size:1.2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.learnnav{
+    color:black !important; 
+}
+.productnav{
+    color:black !important ;
+
+}
+.contactnav{
+    color:white !important;
+}
+.nav-link:hover{
+    color:#5bc41b !important;
+}
+.navbar-brand{
+    font-size:2.5rem;
+    font-family:'Pacifico', cursive;
+    color:#5bc41b !important;
+}
+
+
+.contact-btn{
+    border:0px;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #5bc41b;
+    color:white;
+    justify-content: center;
+    height: auto;
+    width: 150px;
+}
+.contact-btn:hover{
+    background-color: #03674a;
+}
+
+/*blog cards*/
+.blog1{
+    background-color: whitesmoke;
+}
+.card{
+    margin-bottom: 50px ;
+    margin-top: 50px;
+    color:#272727;
+}
+.btn-primary{
+    background-color: #03674a;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+    border: 0;
+}
+.btn-primary:hover{
+    background-color: #5bc41b;
+}
+
+/*footer*/
+
+#footer{
+    padding:4% 15%;
+    text-align:center;
+    background-color: #272727;
+    color:white;
+
+}
+.scl-icn{
+    padding:20px 15px;
+    color:white;
+}
+.scl-icn:hover{
+    color:#5bc41b;
+}
+.cpy{
+    font-size: small;
+}
+.card1{
+    margin-right: 10px;
+   
+}
+.card2{
+    margin-left: 10px;
+
+}
+.container{
+    padding-bottom: 50px;
+    padding-top:30px;
+}
