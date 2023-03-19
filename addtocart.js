@@ -54,7 +54,6 @@ const product = [
         title: 'E-Bike',
         price: 100,
     }
- 
 ];
 
 const categories = [...new Set(product.map((item)=>
